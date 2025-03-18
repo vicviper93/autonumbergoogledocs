@@ -4,7 +4,7 @@ however, sometimes, we need to sort these number.
 that time, this script can help you.
 
 # How to use it?
-1. below image has "[그림 1. 이것은 고양이 입니다]" under the screenshot image.
+1. below image has "[그림 4. 머티리얼의 셰이더 설정]" under the screenshot image.
 ![image](https://github.com/user-attachments/assets/b647f1f4-8914-499c-a719-c007f1d04b45)
 
 2. open "code.gs" file, and copy all code.
