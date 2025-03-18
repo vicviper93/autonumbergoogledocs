@@ -1,8 +1,7 @@
 # Assign a number in Google docs
-## Before
-![image](https://github.com/user-attachments/assets/bfa3541d-bd9a-46fd-b23b-e56dd366b6b1)
-## After
-![image](https://github.com/user-attachments/assets/d6801ee5-7b36-49d6-abfe-2289c3ce4b3c)
+Before | After
+--- | ---
+![image](https://github.com/user-attachments/assets/bfa3541d-bd9a-46fd-b23b-e56dd366b6b1) | ![image](https://github.com/user-attachments/assets/d6801ee5-7b36-49d6-abfe-2289c3ce4b3c)
 
 When we use Google docs, Sometimes, We had a pattern as like "[그림 1. 이것은 고양이입니다]","[그림 3. 저것은 개입니다]" under any image.
 however, sometimes, we need to sort these number. 
@@ -24,10 +23,9 @@ that time, this script can help you.
 ex 1. "[그림" => "[Image"
 
 # 구글독스 그림주석에 번호 자동으로 부여하기
-## Before
-![image](https://github.com/user-attachments/assets/bfa3541d-bd9a-46fd-b23b-e56dd366b6b1)
-## After
-![image](https://github.com/user-attachments/assets/d6801ee5-7b36-49d6-abfe-2289c3ce4b3c)
+Before | After
+--- | ---
+![image](https://github.com/user-attachments/assets/bfa3541d-bd9a-46fd-b23b-e56dd366b6b1) | ![image](https://github.com/user-attachments/assets/d6801ee5-7b36-49d6-abfe-2289c3ce4b3c)
 
 구글 독스 (Google docs)에서 
 [그림 1. 이것은 고양이입니다]
