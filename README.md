@@ -3,7 +3,7 @@ When we use Google docs, Sometimes, We had a pattern as like "[그림 1. 이것�
 however, sometimes, we need to sort these number. 
 that time, this script can help you.
 
-# 사용법
+# How to use it?
 1. below image has "[그림 1. 이것은 고양이 입니다]" under the screenshot image.
 ![image](https://github.com/user-attachments/assets/b647f1f4-8914-499c-a719-c007f1d04b45)
 
